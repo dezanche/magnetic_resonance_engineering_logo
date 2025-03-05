@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="25.657804mm"
+   height="10mm"
+   id="svg2429"
+   sodipodi:version="0.32"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   version="1.0"
+   sodipodi:docname="MR_Engineering_logo_10mm_text.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title892">Magnetic Resonance Engineering</title>
+  <defs
+     id="defs2431">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6335"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6333"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.5)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5250"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5639"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5244"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5226"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5520"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5518"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5480"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5232"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4552"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4540"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4546"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4519">
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1"
+         offset="0"
+         id="stop4515" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.99541283"
+         offset="1"
+         id="stop4517" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 453.77637 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 453.77637 : 1"
+       inkscape:persp3d-origin="372.04724 : 278.38267 : 1"
+       id="perspective2437" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4519"
+       id="radialGradient4521"
+       cx="653.93793"
+       cy="469.37994"
+       fx="653.93793"
+       fy="469.37994"
+       r="10"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.87116706,1.1685672,-1.1533284,0.85980655,624.06773,-701.82389)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="48.928571"
+     inkscape:cy="19.508929"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
+     inkscape:window-x="-8"
+     inkscape:window-y="357"
+     inkscape:window-maximized="1"
+     fit-margin-top="0.1"
+     fit-margin-left="0.1"
+     fit-margin-right="0.1"
+     fit-margin-bottom="0.1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata2434">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>N De Zanche</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nd/4.0/" />
+        <dc:title>Magnetic Resonance Engineering</dc:title>
+        <dc:source>https://commons.wikimedia.org/wiki/File:Gear_1.svg</dc:source>
+        <dc:date>2019-02</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nd/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="SilkS"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-694.77359,-453.64508)">
+    <g
+       id="g836"
+       transform="matrix(0.34359341,0,0,0.34359341,487.88127,310.18015)">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6335)"
+         d="m 637.52321,494.77771 39.7317,-42.55819"
+         id="path4523"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5"
+         d="m 711.91586,477.40472 c 0.141,-1.603 0.227,-3.223 0.227,-4.862 0,-1.639 -0.086,-3.259 -0.227,-4.862 l -10.918,-1.293 c -0.507,-3.644 -1.457,-7.142 -2.794,-10.446 l 8.815,-6.581 c -1.377,-2.959 -3.012,-5.773 -4.873,-8.417 l -10.106,4.344 c -2.228,-2.849 -4.794,-5.416 -7.642,-7.642 l 4.342,-10.107 c -2.644,-1.859 -5.457,-3.495 -8.416,-4.872 l -6.582,8.814 c -3.303,-1.337 -6.803,-2.287 -10.445,-2.793 l -1.293,-10.919 c -1.603,-0.14 -3.223,-0.226 -4.862,-0.226 -1.642,0 -3.259,0.086 -4.864,0.226 l -1.291,10.919 c -3.644,0.506 -7.143,1.456 -10.446,2.793 l -6.581,-8.814 c -2.959,1.377 -5.772,3.012 -8.417,4.872 l 4.342,10.107 c -2.848,2.228 -5.414,4.793 -7.641,7.642 l -10.106,-4.344 c -1.86,2.645 -3.494,5.458 -4.872,8.417 l 8.814,6.581 c -1.337,3.304 -2.287,6.802 -2.793,10.446 l -10.919,1.292 c -0.14,1.604 -0.225,3.224 -0.225,4.863 0,1.639 0.085,3.259 0.226,4.863 l 10.919,1.292 c 0.507,3.643 1.457,7.142 2.793,10.446 l -8.814,6.581 c 1.378,2.959 3.012,5.773 4.872,8.417 l 10.107,-4.343 c 2.227,2.848 4.793,5.413 7.641,7.641 l -4.342,10.106 c 2.645,1.86 5.458,3.496 8.417,4.873 l 6.581,-8.814 c 3.303,1.336 6.803,2.286 10.446,2.793 l 1.291,10.919 c 1.605,0.14 3.223,0.226 4.864,0.226 1.639,0 3.259,-0.086 4.862,-0.226 l 1.293,-10.919 c 3.642,-0.507 7.142,-1.457 10.445,-2.793 l 6.582,8.814 c 2.958,-1.377 5.772,-3.012 8.416,-4.871 l -4.342,-10.108 c 2.848,-2.228 5.414,-4.793 7.642,-7.641 l 10.106,4.343 c 1.86,-2.645 3.496,-5.458 4.873,-8.417 l -8.817,-6.581 c 1.337,-3.304 2.287,-6.803 2.794,-10.446 z m -54.773,27.453 c -17.819,0 -32.315,-14.497 -32.315,-32.314 0,-17.817 14.496,-32.314 32.315,-32.314 17.817,0 32.314,14.497 32.314,32.314 0,17.817 -14.497,32.314 -32.314,32.314 z"
+         sodipodi:nodetypes="csccccccccccccsccccccccccccsccccccccccccsccccccccccccsssss" />
+      <path
+         style="opacity:1;fill:url(#radialGradient4521);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15.4881;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4505"
+         sodipodi:type="arc"
+         sodipodi:cx="657.14288"
+         sodipodi:cy="472.36218"
+         sodipodi:rx="15"
+         sodipodi:ry="15"
+         sodipodi:start="0"
+         sodipodi:end="6.2804673"
+         d="m 672.14288,472.36218 a 15,15 0 0 1 -14.9898,15 15,15 0 0 1 -15.01018,-14.97961 15,15 0 0 1 14.96941,-15.02036 15,15 0 0 1 15.03052,14.9592"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="713.75"
+         y="452.18359"
+         id="text898"><tspan
+           sodipodi:role="line"
+           id="tspan896"
+           x="713.75"
+           y="452.18359"
+           style="font-size:29.3333px">magnetic</tspan><tspan
+           sodipodi:role="line"
+           x="713.75"
+           y="480.24847"
+           id="tspan900"
+           style="font-size:29.3333px">resonance</tspan><tspan
+           sodipodi:role="line"
+           x="713.75"
+           y="508.31332"
+           id="tspan902"
+           style="font-size:29.3333px">engineering</tspan></text>
+    </g>
+  </g>
+</svg>
