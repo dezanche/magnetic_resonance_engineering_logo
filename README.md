@@ -1,0 +1,2 @@
+# magnetic_resonance_engineering_logo
+Magnetic Resonance Engineering logo
